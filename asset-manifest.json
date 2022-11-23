@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Language-uses_design/static/css/main.b95bcc85.css",
+    "main.js": "/Language-uses_design/static/js/main.dc30bcf6.js",
+    "static/js/787.d939c2be.chunk.js": "/Language-uses_design/static/js/787.d939c2be.chunk.js",
+    "static/media/vscode.png": "/Language-uses_design/static/media/vscode.19edc3fbac1c451f289d.png",
+    "static/media/firebase.png": "/Language-uses_design/static/media/firebase.f446f76be8a96ed13f69.png",
+    "static/media/react.png": "/Language-uses_design/static/media/react.73dbb5bcec516da82694.png",
+    "static/media/bootstrap.png": "/Language-uses_design/static/media/bootstrap.e53d77fae52c3827fb74.png",
+    "static/media/twail_css.jpg": "/Language-uses_design/static/media/twail_css.9a314b349adb43219ecd.jpg",
+    "static/media/gitlab.png": "/Language-uses_design/static/media/gitlab.3239028bc39714d97a0a.png",
+    "static/media/nodejs.png": "/Language-uses_design/static/media/nodejs.abfaef34ea49d0c7cd3c.png",
+    "static/media/c++.png": "/Language-uses_design/static/media/c++.3f8430b31b0960aae7e0.png",
+    "static/media/aws.png": "/Language-uses_design/static/media/aws.6bfe435370a0e8b1ac1d.png",
+    "static/media/laravel.jpeg": "/Language-uses_design/static/media/laravel.e7ca11bdb8a38c3c227b.jpeg",
+    "static/media/kubernets.png": "/Language-uses_design/static/media/kubernets.88e38f11b997f80e8998.png",
+    "static/media/Java.jpeg": "/Language-uses_design/static/media/Java.67449b67af92c69b862b.jpeg",
+    "static/media/wordpress.png": "/Language-uses_design/static/media/wordpress.7a883586269b570a605b.png",
+    "static/media/postgre.png": "/Language-uses_design/static/media/postgre.330884e1a0af061180ec.png",
+    "static/media/icons8-mongodb-480.png": "/Language-uses_design/static/media/icons8-mongodb-480.a8889d623357ad8ce30e.png",
+    "static/media/flutter.png": "/Language-uses_design/static/media/flutter.2e31d94a009e134a4804.png",
+    "static/media/typeorm.png": "/Language-uses_design/static/media/typeorm.c0145b93413749fd797d.png",
+    "static/media/mysql.png": "/Language-uses_design/static/media/mysql.50aac9fecb78dd1ebda7.png",
+    "static/media/c.png": "/Language-uses_design/static/media/c.7e4173baaed898274e76.png",
+    "static/media/html-5.png": "/Language-uses_design/static/media/html-5.2d26b3825290a30ce9f1.png",
+    "static/media/css.png": "/Language-uses_design/static/media/css.5be4720c85bde5e00195.png",
+    "index.html": "/Language-uses_design/index.html",
+    "main.b95bcc85.css.map": "/Language-uses_design/static/css/main.b95bcc85.css.map",
+    "main.dc30bcf6.js.map": "/Language-uses_design/static/js/main.dc30bcf6.js.map",
+    "787.d939c2be.chunk.js.map": "/Language-uses_design/static/js/787.d939c2be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95bcc85.css",
+    "static/js/main.dc30bcf6.js"
+  ]
+}
