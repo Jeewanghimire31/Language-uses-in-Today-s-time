@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Language-uses_design/static/css/main.b95bcc85.css",
-    "main.js": "/Language-uses_design/static/js/main.dc30bcf6.js",
+    "main.js": "/Language-uses_design/static/js/main.0c900f17.js",
     "static/js/787.d939c2be.chunk.js": "/Language-uses_design/static/js/787.d939c2be.chunk.js",
     "static/media/vscode.png": "/Language-uses_design/static/media/vscode.19edc3fbac1c451f289d.png",
     "static/media/firebase.png": "/Language-uses_design/static/media/firebase.f446f76be8a96ed13f69.png",
@@ -26,11 +26,11 @@
     "static/media/css.png": "/Language-uses_design/static/media/css.5be4720c85bde5e00195.png",
     "index.html": "/Language-uses_design/index.html",
     "main.b95bcc85.css.map": "/Language-uses_design/static/css/main.b95bcc85.css.map",
-    "main.dc30bcf6.js.map": "/Language-uses_design/static/js/main.dc30bcf6.js.map",
+    "main.0c900f17.js.map": "/Language-uses_design/static/js/main.0c900f17.js.map",
     "787.d939c2be.chunk.js.map": "/Language-uses_design/static/js/787.d939c2be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b95bcc85.css",
-    "static/js/main.dc30bcf6.js"
+    "static/js/main.0c900f17.js"
   ]
 }
