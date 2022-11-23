@@ -24,8 +24,8 @@ const Tech = () => {
                     
                     <div className="tech_test3 ">
                         <div className="tech_text">
-                           <p> You Dream,</p>
-                           <p> We Build!!!</p>
+                           <p>Dream That,</p>
+                           <p>These tool Build!!!</p>
                         </div>
                     
                         <div className="icon_html">
