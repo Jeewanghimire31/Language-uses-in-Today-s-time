@@ -1,0 +1,327 @@
+.titleName_section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+  
+    .titleSubTitle {
+      font-size: 16px;
+      font-weight: 450;
+      color: #000;
+    }
+  }
+
+.titleTitle {
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #000;
+    
+  }
+
+
+
+.tech_section {
+
+    height: 100vh;
+    width: 100%;
+    .tech_container {
+      // margin: 0 !important;
+      height: 86vh;
+      width: 100%;
+  
+      img {
+        height: 40px;
+      //   filter: grayscale(100%);
+      }
+  
+      .tech_test {
+        border: solid #000;
+        width: 60%;
+        height: 75vh;
+        border-radius: 70%;
+        border-style: dashed;
+  
+        .tech_test2 {
+          border: solid #000;
+          height: 50vh;
+          width: 80%;
+          border-radius: 70%;
+          border-style: dashed;
+  
+          .tech_test3 {
+            position: relative;
+            border: solid #000;
+            height: 30vh;
+            width: 60%;
+            border-radius: 70%;
+            border-style: dashed;
+  
+            .tech_text {
+  
+              p{
+                margin: 0!important;
+              }
+              position: absolute;
+              padding: 0 1rem;
+              top: 36%;
+              left: 30%;
+              font-size: 23px !important;
+              font-weight: 600;
+              color: #000 !important;
+            }
+            .icon_js {
+              position: absolute;
+              top: 159%;
+              left: 79%;
+            }
+            .icon_html {
+              background-color: #fff;
+              position: absolute;
+              top: 0%;
+              left: 74%;
+            }
+            .icon_css {
+              background-color: #fff;
+              position: absolute;
+              top: -7%;
+              left: 27%;
+            }
+            .icon_laravel {
+              background-color: #fff;
+              position: absolute;
+              top: 16%;
+              left: 1%;
+            }
+            .icon_twail {
+              position: absolute;
+              bottom: -4%;
+              left: 25%;
+            }
+            .icon_bootstrap {
+              background-color: #fff;
+              position: absolute;
+              bottom: 42%;
+              left: 93%;
+            }
+            .icon_c {
+              background-color: #fff;
+              position: absolute;
+              bottom: -1%;
+              left: 67%;
+            }
+            .icon_react {
+              background-color: #fff;
+              position: absolute;
+              top: 58%;
+              left: -5%;
+            }
+            .icon_react {
+              background-color: #fff;
+              position: absolute;
+              top: 58%;
+              left: -5%;
+            }
+  
+            .icon_gitlab {
+              background-color: #fff;
+              position: absolute;
+              bottom: -25%;
+              left: 92%;
+            }
+
+            .icon_firebase {
+              background-color: #fff;
+              position: absolute;
+              bottom: -40%;
+              left: 47%;
+            }
+
+            .icon_typescript {
+              background-color: #fff;
+              position: absolute;
+              top: 70%;
+              right: -35%;
+            }
+            .icon_go {
+              background-color: #fff;
+              position: absolute;
+              top: 26%;
+              right: -39%;
+
+              img{
+                height: 27px;
+              }
+            }
+  
+            .icon_nodejs {
+              background-color: #fff;
+              position: absolute;
+              top: -40%;
+              left: 61%;
+            }
+  
+            .icon_github {
+              background-color: #fff;
+              position: absolute;
+              top: -26%;
+              left: -46%;
+            }
+            .icon_docker {
+              background-color: #fff;
+              position: absolute;
+              top: -15%;
+              left: 104%;
+            }
+  
+            .icon_mysql {
+              background-color: #fff;
+              position: absolute;
+              bottom: -5%;
+              left: -55%;
+            }
+            .icon_mongo {
+              background-color: #fff;
+              position: absolute;
+              top: -7%;
+              left: -25%;
+            }
+            .icon_cPlus {
+              background-color: #fff;
+              position: absolute;
+              top: -38%;
+              left: 13%;
+            }
+            .icon_postgre {
+              background-color: #fff;
+              position: absolute;
+              top: 55%;
+              left: -40%;
+            }
+            .icon_typeorm {
+              background-color: #fff;
+              position: absolute;
+              bottom: -43%;
+              right: -43%;
+            }
+            .icon_npm {
+              background-color: #fff;
+              position: absolute;
+              bottom: -70%;
+              left: -4%;
+            }
+            .icon_kubernets {
+              background-color: #fff;
+              position: absolute;
+              top: -69%;
+              left: -8%;
+            }
+            .icon_aws {
+              background-color: #fff;
+              position: absolute;
+              top: -68%;
+              left: 89%;
+            }
+            .icon_vscode {
+              background-color: #fff;
+              position: absolute;
+              bottom: 65%;
+              right: -58%;
+            }
+            .icon_wordpress {
+              background-color: #fff;
+              position: absolute;
+              bottom: 52%;
+              right: 150%;
+            }
+
+            .icon_figma {
+              background-color: #fff;
+              position: absolute;
+              bottom: 115%;
+              right: -41%;
+            }
+
+            .icon_illustrator {
+              background-color: #fff;
+              position: absolute;
+              bottom: 4%;
+              right: -57%;
+            }
+            .icon_indesign {
+                position: absolute;
+                top: 167%;
+                left: 34%;
+              }
+            .icon_photoshop {
+                position: absolute;
+                bottom: -43%;
+                left: -34%;
+              }
+
+            .icon_dart {
+              background-color: #fff;
+              position: absolute;
+              bottom: -32%;
+              right: 84%;
+            }
+            .icon_java {
+              background-color: #fff;
+              position: absolute;
+              bottom: -8%;
+              right: 107%;
+            }
+            .icon_flutter {
+              background-color: #fff;
+              position: absolute;
+              bottom: 168%;
+              right: 49%;
+            }
+            // .creator {
+            //   background-color: #fff;
+            //   position: absolute;
+            //   top: 189%;
+            //   left: 132%;
+            // }
+          }
+        }
+      }
+    }
+  }
+  
+  @media screen and (max-width:900px) {
+    .tech_section{
+      .tech_container{
+  
+        .tech_test{
+          width: 80%;
+        }
+      }
+    }
+    
+  }
+  @media screen and (max-width:700px) {
+    .tech_section{
+      .tech_container{
+  
+        .tech_test{
+          width: 91%;
+        }
+      }
+
+    }
+    
+  }
+  @media screen and (max-width:550px) {
+    .tech_section{
+      .tech_container{
+  
+        .tech_test{
+          width: 98%;
+        }
+      }
+    }
+    
+  }
+  
